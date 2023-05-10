@@ -1,0 +1,16 @@
+2023-05-09 21:57:49,265 =============================================================
+2023-05-09 21:57:49,265 =============================================================
+2023-05-09 21:57:49,265 Today is 2023-05-09 at 09:57 PM
+2023-05-09 21:57:49,283 This file is running on: nt Windows 10
+2023-05-09 21:57:49,283 The Python version is: 3.11.3
+2023-05-09 21:57:49,283 The active conda environment is:  None
+2023-05-09 21:57:49,283 The active pip environment is:    None
+2023-05-09 21:57:49,283 The active environment path is:   C:\Users\Sapper Tower\AppData\Local\Programs\Python\Python311
+2023-05-09 21:57:49,283 The current working directory is: C:\Users\Sapper Tower\OneDrive\Documents\Char_School\datafun-01-getting-started
+2023-05-09 21:57:49,283 This source file is in:           C:\Users\Sapper Tower\OneDrive\Documents\Char_School\datafun-01-getting-started
+2023-05-09 21:57:49,283 =============================================================
+2023-05-09 21:57:49,283 =============================================================
+2023-05-09 21:57:58,837 The area of a circle with radius 3.0 is 28.274333882308138.
+2023-05-09 21:57:58,838 Eww... that's a lot of decimal places - tmi!
+2023-05-09 21:57:58,838 The area of a circle with radius 3.0 is 28.27.
+2023-05-09 21:57:58,838 Much better!

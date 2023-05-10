@@ -1,0 +1,19 @@
+2023-05-09 21:56:54,277 =============================================================
+2023-05-09 21:56:54,277 =============================================================
+2023-05-09 21:56:54,277 Today is 2023-05-09 at 09:56 PM
+2023-05-09 21:56:54,290 This file is running on: nt Windows 10
+2023-05-09 21:56:54,290 The Python version is: 3.11.3
+2023-05-09 21:56:54,290 The active conda environment is:  None
+2023-05-09 21:56:54,290 The active pip environment is:    None
+2023-05-09 21:56:54,290 The active environment path is:   C:\Users\Sapper Tower\AppData\Local\Programs\Python\Python311
+2023-05-09 21:56:54,290 The current working directory is: C:\Users\Sapper Tower\OneDrive\Documents\Char_School\datafun-01-getting-started
+2023-05-09 21:56:54,290 This source file is in:           C:\Users\Sapper Tower\OneDrive\Documents\Char_School\datafun-01-getting-started
+2023-05-09 21:56:54,290 =============================================================
+2023-05-09 21:56:54,290 =============================================================
+2023-05-09 21:56:54,290 Functions url = https://docs.python.org/3/library/functions.html
+2023-05-09 21:56:54,290 number_list = [1, 2, 3, 4, 5]
+2023-05-09 21:56:54,290 len(number_list) = 5
+2023-05-09 21:56:54,290 min(number_list) = 1
+2023-05-09 21:56:54,291 max(number_list) = 5
+2023-05-09 21:57:04,374 message = Hello Charity!
+2023-05-09 21:57:08,844 response = y
